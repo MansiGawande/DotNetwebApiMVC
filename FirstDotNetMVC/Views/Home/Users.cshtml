@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Users";
+}
+@model List<User>
+<div class="text-center">
+    <h1 class="display-4">Users</h1>
+   <br />
+   <table class = "table">
+        <thead><tr>
+            <th>Id</th>
+                <th>Name</th>
+                <th>Username</th>
+                <th>Password</th>
+            </tr></thead>
+        <tbody>
+            @{
+                foreach (var user in Model)
+                {
+                    <tr>
+                    <td>
+                    @user.Id</td>
+                        <td>
+                            @user.Id
+                        </td>
+                        <td>
+                            @user.Name
+                        </td>
+                        <td>
+                            @user.Username
+                        </td>
+                        <td>
+                            @user.Password
+                        </td>
+                        <td>
+                            @user.Password
+                        </td>
+                        <td>
+                            @user.Password
+                        </td>
+                        <td>
+                            <a asp-action="CreateEditUserForm" asp-route-id="@user.Id">Edit</a>
+                            <a asp-action="">Delete</a>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    
+</table>
+</div>
