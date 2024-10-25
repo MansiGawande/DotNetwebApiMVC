@@ -39,3 +39,4 @@ C:\Users\mansi.gawande\OneDrive - Systematix Infotech Pvt Ltd\Documents\.NET\Fir
 C:\Users\mansi.gawande\OneDrive - Systematix Infotech Pvt Ltd\Documents\.NET\FirstDotNetMVC\FirstDotNetMVC\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\mansi.gawande\OneDrive - Systematix Infotech Pvt Ltd\Documents\.NET\FirstDotNetMVC\FirstDotNetMVC\obj\Debug\net8.0\FirstDotNetMVC.csproj.AssemblyReference.cache
 C:\Users\mansi.gawande\OneDrive - Systematix Infotech Pvt Ltd\Documents\.NET\FirstDotNetMVC\FirstDotNetMVC\obj\Debug\net8.0\FirstDot.AA5A1313.Up2Date
+C:\Users\mansi.gawande\OneDrive - Systematix Infotech Pvt Ltd\Documents\.NET\FirstDotNetMVC\FirstDotNetMVC\obj\Debug\net8.0\FirstDotNetMVC.sourcelink.json

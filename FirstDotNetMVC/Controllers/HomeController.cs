@@ -19,13 +19,34 @@ namespace FirstDotNetMVC.Controllers
         {
             return View();
         }
-        public IActionResult CreateEditUser(int? id)
-        {
 
+        public IActionResult DeleteUser(int? id)
+        {
+            var userInDb = _context.Users.SingleOrDefault(user => user.Id == id);
+            _context.Users.Remove(userInDb);
+            _context.SaveChanges();
+                return RedirectToAction("Users"); // move to UserCs.html
         }
+        public IActionResult CreateEditUser(int id){
+            if(id != null){
+            var userInDb = _context.Users.SingleOrDefault(user => user.Id == id);
+                return View(userInDb);
+                    
+            }
+
+            return View();
+        }
+    
         public IActionResult CreateEditUserForm(User model)
         {
+            if(model.Id == 0)
+            {
             _context.Users.Add(model);
+
+            } else
+            {
+                _context.Users.Update(model);
+            }
 
             _context.SaveChanges();
 

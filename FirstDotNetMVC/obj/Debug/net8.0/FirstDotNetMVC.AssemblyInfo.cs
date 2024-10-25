@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstDotNetMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73de41b55426c4afe2538de83db093e1d44e91be")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstDotNetMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstDotNetMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

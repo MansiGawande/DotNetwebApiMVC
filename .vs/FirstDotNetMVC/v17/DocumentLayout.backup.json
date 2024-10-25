@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|c:\\users\\mansi.gawande\\onedrive - systematix infotech pvt ltd\\documents\\.net\\firstdotnetmvc\\firstdotnetmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|solutionrelative:firstdotnetmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|c:\\users\\mansi.gawande\\onedrive - systematix infotech pvt ltd\\documents\\.net\\firstdotnetmvc\\firstdotnetmvc\\views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|solutionrelative:firstdotnetmvc\\views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,28 +15,32 @@
       "RelativeMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|solutionrelative:firstdotnetmvc\\views\\home\\useraddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|c:\\users\\mansi.gawande\\onedrive - systematix infotech pvt ltd\\documents\\.net\\firstdotnetmvc\\firstdotnetmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|solutionrelative:firstdotnetmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|c:\\users\\mansi.gawande\\onedrive - systematix infotech pvt ltd\\documents\\.net\\firstdotnetmvc\\firstdotnetmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|solutionrelative:firstdotnetmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|c:\\users\\mansi.gawande\\onedrive - systematix infotech pvt ltd\\documents\\.net\\firstdotnetmvc\\firstdotnetmvc\\models\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|solutionrelative:firstdotnetmvc\\models\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|c:\\users\\mansi.gawande\\onedrive - systematix infotech pvt ltd\\documents\\.net\\firstdotnetmvc\\firstdotnetmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|solutionrelative:firstdotnetmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|c:\\users\\mansi.gawande\\onedrive - systematix infotech pvt ltd\\documents\\.net\\firstdotnetmvc\\firstdotnetmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|solutionrelative:firstdotnetmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|c:\\users\\mansi.gawande\\onedrive - systematix infotech pvt ltd\\documents\\.net\\firstdotnetmvc\\firstdotnetmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|solutionrelative:firstdotnetmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|c:\\users\\mansi.gawande\\onedrive - systematix infotech pvt ltd\\documents\\.net\\firstdotnetmvc\\firstdotnetmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|solutionrelative:firstdotnetmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|c:\\users\\mansi.gawande\\onedrive - systematix infotech pvt ltd\\documents\\.net\\firstdotnetmvc\\firstdotnetmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|solutionrelative:firstdotnetmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|c:\\users\\mansi.gawande\\onedrive - systematix infotech pvt ltd\\documents\\.net\\firstdotnetmvc\\firstdotnetmvc\\models\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|solutionrelative:firstdotnetmvc\\models\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|c:\\users\\mansi.gawande\\onedrive - systematix infotech pvt ltd\\documents\\.net\\firstdotnetmvc\\firstdotnetmvc\\.gitignore||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|solutionrelative:firstdotnetmvc\\.gitignore||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|c:\\users\\mansi.gawande\\onedrive - systematix infotech pvt ltd\\documents\\.net\\firstdotnetmvc\\firstdotnetmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A8DFE01-2717-4FBF-999E-7BD9AEA62C2B}|FirstDotNetMVC\\FirstDotNetMVC.csproj|solutionrelative:firstdotnetmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,18 +53,31 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstDotNetMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\appsettings.json",
+              "RelativeToolTip": "FirstDotNetMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T06:05:29.456Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "UsersDbContext.cs",
               "DocumentMoniker": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Models\\UsersDbContext.cs",
               "RelativeDocumentMoniker": "FirstDotNetMVC\\Models\\UsersDbContext.cs",
               "ToolTip": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Models\\UsersDbContext.cs",
               "RelativeToolTip": "FirstDotNetMVC\\Models\\UsersDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T12:39:06.359Z",
               "EditorCaption": ""
@@ -64,19 +85,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Views\\Home\\Users.cshtml",
+              "RelativeDocumentMoniker": "FirstDotNetMVC\\Views\\Home\\Users.cshtml",
+              "ToolTip": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Views\\Home\\Users.cshtml",
+              "RelativeToolTip": "FirstDotNetMVC\\Views\\Home\\Users.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T09:58:47.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserAddEdit.cshtml",
               "DocumentMoniker": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Views\\Home\\UserAddEdit.cshtml",
               "RelativeDocumentMoniker": "FirstDotNetMVC\\Views\\Home\\UserAddEdit.cshtml",
               "ToolTip": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Views\\Home\\UserAddEdit.cshtml",
               "RelativeToolTip": "FirstDotNetMVC\\Views\\Home\\UserAddEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-24T10:32:31.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "FirstDotNetMVC\\Views\\Home\\Index.cshtml",
@@ -89,7 +123,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FirstDotNetMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FirstDotNetMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:07:16.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\.gitignore",
+              "RelativeDocumentMoniker": "FirstDotNetMVC\\.gitignore",
+              "ToolTip": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\.gitignore",
+              "RelativeToolTip": "FirstDotNetMVC\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-25T05:09:46.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FirstDotNetMVC\\Views\\Shared\\_Layout.cshtml",
@@ -102,53 +162,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FirstDotNetMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FirstDotNetMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T10:07:16.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Users.cshtml",
-              "DocumentMoniker": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Views\\Home\\Users.cshtml",
-              "RelativeDocumentMoniker": "FirstDotNetMVC\\Views\\Home\\Users.cshtml",
-              "ToolTip": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Views\\Home\\Users.cshtml*",
-              "RelativeToolTip": "FirstDotNetMVC\\Views\\Home\\Users.cshtml*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-24T09:58:47.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Program.cs",
               "RelativeDocumentMoniker": "FirstDotNetMVC\\Program.cs",
               "ToolTip": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Program.cs",
               "RelativeToolTip": "FirstDotNetMVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:43:00.214Z"
+              "WhenOpened": "2024-10-24T12:43:00.214Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Models\\User.cs",
               "RelativeDocumentMoniker": "FirstDotNetMVC\\Models\\User.cs",
               "ToolTip": "C:\\Users\\mansi.gawande\\OneDrive - Systematix Infotech Pvt Ltd\\Documents\\.NET\\FirstDotNetMVC\\FirstDotNetMVC\\Models\\User.cs",
               "RelativeToolTip": "FirstDotNetMVC\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T09:44:44.585Z"
+              "WhenOpened": "2024-10-24T09:44:44.585Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -7,19 +7,18 @@
    <br />
    <table class = "table">
         <thead><tr>
-            <th>Id</th>
+             <th>Id</th>
                 <th>Name</th>
                 <th>Username</th>
                 <th>Password</th>
+                <th>Actions</th>
             </tr></thead>
         <tbody>
             @{
                 foreach (var user in Model)
                 {
                     <tr>
-                    <td>
-                    @user.Id</td>
-                        <td>
+                   <td>
                             @user.Id
                         </td>
                         <td>
@@ -32,14 +31,8 @@
                             @user.Password
                         </td>
                         <td>
-                            @user.Password
-                        </td>
-                        <td>
-                            @user.Password
-                        </td>
-                        <td>
-                            <a asp-action="CreateEditUserForm" asp-route-id="@user.Id">Edit</a>
-                            <a asp-action="">Delete</a>
+                            <a asp-action="CreateEditUser" asp-route-id="@user.Id">Edit</a>
+                            <a asp-action="DeleteUser" asp-route-id="@user.Id">Delete</a>
                         </td>
                     </tr>
                 }
